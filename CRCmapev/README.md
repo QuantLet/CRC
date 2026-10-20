@@ -9,18 +9,20 @@ Name of QuantLet: CRCmapev
 
 Published in: CRC - Evaluating Research Performance of the Collaborative Research Center 649
 
-Description: Produces a map with the locations of scientific events visited by CRC members from
+Description: Produces a map with the locations of scientific events visited by CRC members from 2005 to 2016, June (paid from CRC)
 
-Keywords: plot, map, multivariate, analysis, descriptive, descriptive-methods, distribution,
+Keywords: plot, map, multivariate, analysis, descriptive, descriptive-methods, distribution, graphical representation, visualization, data visualization
 
 Author: Alona Zharova, Janine Tellinger-Rice, Wolfgang Karl Härdle
 
 Submitted: Sun, October 16 2016 by Nicole Hermann, Alona Zharova
 
-Datafile: conferences.txt - The data set contains the names of cities where CRC members visited
+Datafile: conferences.txt - The data set contains the names of cities where CRC members visited some scientific event, the latitude and longitude data of each city and the total number of visits
 
 Output: 
-- 1: 'World map with the locations of scientific events visited by CRC members from 2005 to 2016,
+- 1: 'World map with the locations of scientific events visited by CRC members from 2005 to 2016, June (paid from CRC)'
+- 2: 'Map of Europe with the locations of scientific events visited by CRC members from 2005 to 2016, June (paid from CRC)'
+- 3: 'MAp of Germany and close countries with the locations of scientific events visited by CRC members from 2005 to 2016, June (paid from CRC)'
 
 ```
 <div align="center">
